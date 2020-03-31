@@ -21,5 +21,5 @@
 
 
 <h1> Team</h1>:
-- [kholoud] (https://github.com/kholoudfann)
-- [Duha] (https://github.com/Duha96)
+- [kholoud](https://github.com/kholoudfann)
+- [Duha](https://github.com/Duha96)
