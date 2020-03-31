@@ -9,14 +9,14 @@
 
 
  # How to run :
-1-Clone repo.
-2-Write the following commands on terminal:
-3-cd To--do-app-react-R-K-/todo-app
-4-npm i
-5-npm start
-6-open localhost:3000 and the project will run.
+<br> 1-Clone repo.
+<br> 2-Write the following commands on terminal:
+<br> 3-cd To--do-app-react-R-K-/todo-app
+<br> 4-npm i
+<br> 5-npm start
+<br> 6-open localhost:3000 and the project will run.
 
 
 # Team:
-- Kholoud
-- Duha  
+ <br> - Kholoud
+<br> - Duha  
