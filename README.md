@@ -13,7 +13,7 @@
  <br> git clone https://github.com/GSG-K3/react-weather.git
  <br> cd react-weather
  ```
- <br> -install node modules:
+- install node modules:
  <br> npm i
  <br> npm start
  <br> open localhost:3000 and the project will run.
