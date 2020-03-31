@@ -3,14 +3,14 @@
 
   
 
-# simple weather App that do the following:
+## simple weather App that do the following:
 <br> 1-Default weather information
 <br> 2-Add the city name and git the weather information and photo of this city 
 
-
  ## How to use our website !!:
+ ### In Terminal
  -clone these repo:
- <br> ...
+ <br>...
  <br> git clone https://github.com/GSG-K3/react-weather.git
  <br> cd react-weather
  <br> ...
