@@ -8,7 +8,7 @@
 <br> 2-Add the city name and git the weather information and photo of this city 
 
 
- # How to run :
+ ## How to use our website !!:
 <br> 1-Clone repo.
 <br> 2-Write the following commands on terminal:
 <br> 3- git clone https://github.com/GSG-K3/react-weather
