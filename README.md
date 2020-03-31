@@ -9,10 +9,10 @@
  ## How to use our website !!:
   ### In terminal
  -clone these repo:
- <br>...
+ <br> ```
  <br> git clone https://github.com/GSG-K3/react-weather.git
  <br> cd react-weather
- <br> ...
+ <br> ```
  <br> -install node modules:
  <br> npm i
  <br> npm start
