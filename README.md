@@ -3,7 +3,7 @@
 
   
 
-# simple weather App that do the following:
+# simple weather App that do the following:<br>
 1-Default weather information
 2-Add the city name and git the weather information and photo of this city 
 
