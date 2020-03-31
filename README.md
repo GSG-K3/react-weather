@@ -11,10 +11,11 @@
  # How to run :
 <br> 1-Clone repo.
 <br> 2-Write the following commands on terminal:
-<br> 3-cd To--do-app-react-R-K-/todo-app
-<br> 4-npm i
-<br> 5-npm start
-<br> 6-open localhost:3000 and the project will run.
+<br> 3- git clone https://github.com/GSG-K3/react-weather
+<br> 4-cd To--do-app-react-R-K-/todo-app
+<br> 5-npm i
+<br> 6-npm start
+<br> 7-open localhost:3000 and the project will run.
 
 
 # Team:
