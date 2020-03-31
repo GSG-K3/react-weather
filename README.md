@@ -20,6 +20,6 @@
  <br> open localhost:3000 and the project will run.
 
 
-# Team:
- <br> - https://github.com/kholoudfann
-<br> - Duha  
+<h1> Team</h1>:
+- [kholoud] (https://github.com/kholoudfann)
+- [Duha] (https://github.com/Duha96)
