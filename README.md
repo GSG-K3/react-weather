@@ -15,11 +15,11 @@
  <br> cd react-weather
  <br> ...
  <br> -install node modules:
- <br> 5-npm i
- <br> 6-npm start
- <br> 7-open localhost:3000 and the project will run.
+ <br> npm i
+ <br> npm start
+ <br> open localhost:3000 and the project will run.
 
 
 # Team:
- <br> - Kholoud
+ <br> - https://github.com/kholoudfann
 <br> - Duha  
