@@ -10,11 +10,11 @@
 
  ## How to use our website !!:
  -clone these repo:
- ...
- git clone https://github.com/GSG-K3/react-weather.git
- cd react-weather
- ...
- -install node modules:
+ <br> ...
+ <br> git clone https://github.com/GSG-K3/react-weather.git
+ <br> cd react-weather
+ <br> ...
+ <br> -install node modules:
  <br> 5-npm i
  <br> 6-npm start
  <br> 7-open localhost:3000 and the project will run.
