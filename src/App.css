@@ -36,9 +36,9 @@
   width: 200px !important;
 }
 .search-btn{
-  background: #84d4c3;
+  background: #6f7573;
   box-sizing: content-box;
-  border: 1px solid #84d4c3;
+  border: 1px solid #6f7573;
   border-radius: 0 5px 5px 0;
   color: #fff;
   display: block;
@@ -49,9 +49,10 @@
   height: 30px;
   line-height: 40px;
   margin: 0;
-  padding: 1px;
+  padding: 0;
+  padding-bottom: 6px;
   position: relative;
-  width: 65px;
+  width: 70px;
 
 }
 
