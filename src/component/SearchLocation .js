@@ -5,15 +5,16 @@ class SearchLocation extends Component {
   };
   handleChange= e => {
     const city_name = e.target.value;
-    this.setState({city:city_name });
+    this.setState({city:city_name  });
     console.log(city_name); 
   };
   searchLocation = e => {
     e.preventDefault();
-    this.props.weather(this.state); // 
-
-  
+    this.props.weather(this.state);
+     this.props.getLocation(this.state);
+     this.props.getGify(this.state);
   };
+
 
   render() {
     return (
