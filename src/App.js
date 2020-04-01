@@ -55,9 +55,9 @@ class App extends Component {
 
         this.setState({
           city_name: response.name,
-          temperature: console.log(response.main.temp),
-          weather:console.log(response.weather[0].description),
-          wind_speed:console.log(response.main.humidity) 
+          temperature: response.main.temp,
+          weather:response.weather[0].description,
+          wind_speed:response.main.humidity 
         });
       })
   };
@@ -67,6 +67,12 @@ class App extends Component {
       <div className="App">
         <h1> WHAT'S THE WEATHER? </h1>
         <SearchLocation weather={this.getWeather} city={this.state.city_name} />
+    <h2>{this.state.city_name}</h2>
+       <div>
+    <h3>{this.state.temperature}</h3>
+    <h3>{this.state.weather}</h3>
+    <h3>{this.state.wind_speed}</h3>
+      </div>
       </div>
     );
   }

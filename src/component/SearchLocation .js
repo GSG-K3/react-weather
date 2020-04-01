@@ -28,6 +28,7 @@ class SearchLocation extends Component {
               value={this.state.city}
           
           ></input>
+          <h3>{this.state.city_name}</h3>
         <input type="submit" value="Get weather" className="search-btn" />
          
         </form>
